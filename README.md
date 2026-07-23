@@ -3,7 +3,7 @@
 > **Free MT5 indicator.** Display a live economic calendar panel and colour-coded vertical event lines directly on your MetaTrader 5 chart — powered by the MT5 built-in calendar API, no external data feed required.
 
 [![Platform](https://img.shields.io/badge/Platform-MetaTrader%205-blue)](#compatibility)
-[![License](https://img.shields.io/badge/License-Free-brightgreen)](#license)
+[![License](https://img.shields.io/badge/License-MIT-green)](#license)
 [![Version](https://img.shields.io/badge/Version-1.00-orange)](#changelog)
 [![Instruments](https://img.shields.io/badge/Instruments-Forex%20%7C%20Gold%20%7C%20Indices%20%7C%20Crypto-lightgrey)](#compatibility)
 
@@ -70,7 +70,7 @@ The panel position, row counts, currency filter, minimum impact level, colours, 
 
 ### Steps
 
-1. **Download** the file from the [Releases](../../releases) section or from the [product page](https://forextradingtools.eu/products/indicators/news-calendar-mt5-free/).
+1. **Download** the file from the [Releases](https://github.com/ForexTradingTools/fxtt-mt5-news-calendar/releases) section or from the [product page](https://forextradingtools.eu/products/indicators/news-calendar-mt5-free/).
 2. In MetaTrader 5, go to **File → Open Data Folder**.
 3. Navigate to **MQL5 → Indicators** and paste the `.ex5` file there.
 4. Back in MT5, press **Ctrl+N** to open the Navigator panel, then right-click **Indicators → Refresh**.
@@ -260,10 +260,10 @@ More free MT5 and MT4 indicators at [forextradingtools.eu](https://forextradingt
 
 ## License
 
-This indicator is provided **free of charge** for personal use. You may use it on any number of MT5 accounts and VPS instances. Redistribution, resale, or repackaging without written permission is not permitted.
+This project is licensed under the **MIT License** — you are free to use, modify, and distribute the code, provided the original copyright notice is retained.
 
-© [Forex Trading Tools](https://forextradingtools.eu) — All rights reserved.
+See [LICENSE](./LICENSE) for details.
 
 ---
 
-*Found a bug or have a feature request? Open an [issue](../../issues) or use the suggestion form on the [product page](https://forextradingtools.eu/products/indicators/news-calendar-mt5-free/).*
+*Found a bug or have a feature request? Open an [issue](https://github.com/ForexTradingTools/fxtt-mt5-news-calendar/issues) or use the suggestion form on the [product page](https://forextradingtools.eu/products/indicators/news-calendar-mt5-free/).*
