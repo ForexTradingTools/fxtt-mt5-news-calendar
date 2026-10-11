@@ -38,7 +38,7 @@ The panel position, row counts, currency filter, minimum impact level, colours, 
 
 **Who it is for:** Traders who need to stay aware of high-impact news while managing open positions or waiting for entries — without switching away from their execution chart.
 
-> **Download, screenshots, and full documentation:** [forextradingtools.eu — FXTT News Calendar MT5](https://forextradingtools.eu/products/indicators/news-calendar-mt5-free/)
+> **Download, screenshots, and full documentation:** [forextradingtools.eu — FXTT News Calendar MT5](https://forextradingtools.eu/en/marketplace/news-calendar-mt5)
 
 ---
 
@@ -70,7 +70,7 @@ The panel position, row counts, currency filter, minimum impact level, colours, 
 
 ### Steps
 
-1. **Download** the file from the [Releases](https://github.com/ForexTradingTools/fxtt-mt5-news-calendar/releases) section or from the [product page](https://forextradingtools.eu/products/indicators/news-calendar-mt5-free/).
+1. **Download** the file from the [Releases](https://github.com/ForexTradingTools/fxtt-mt5-news-calendar/releases) section or from the [product page](https://forextradingtools.eu/en/marketplace/news-calendar-mt5).
 2. In MetaTrader 5, go to **File → Open Data Folder**.
 3. Navigate to **MQL5 → Indicators** and paste the `.ex5` file there.
 4. Back in MT5, press **Ctrl+N** to open the Navigator panel, then right-click **Indicators → Refresh**.
@@ -206,9 +206,9 @@ Low- and Medium-impact events (gold and orange lines) rarely cause lasting price
 
 The News Calendar works as a **timing and risk-awareness tool** alongside technical indicators:
 
-- **[ZigZag Zones MT5](https://forextradingtools.eu/products/indicators/zigzag-zones-mt5-free/)** — use automatic support and resistance zones to identify key price levels, then overlay news lines to assess whether an upcoming release could act as a catalyst at those zones.
-- **[MTF Bollinger Bands MT5](https://forextradingtools.eu/products/indicators/mtf-bollinger-bands-mt5-indicator/)** — check whether implied volatility is already elevated across timeframes heading into a high-impact event. A squeeze resolving near a news release can produce outsized moves.
-- **[MTF Triple Moving Averages MT5](https://forextradingtools.eu/products/indicators/mtf-triple-moving-averages-free-indicator/)** — confirm multi-timeframe trend direction, then use the calendar to avoid entering just before major news that could reverse or invalidate the setup.
+- **[ZigZag Zones MT5](https://forextradingtools.eu/en/marketplace/zigzag-zones-mt5)** — use automatic support and resistance zones to identify key price levels, then overlay news lines to assess whether an upcoming release could act as a catalyst at those zones.
+- **[MTF Bollinger Bands MT5](https://forextradingtools.eu/en/marketplace/mtf-bollinger-bands-mt5)** — check whether implied volatility is already elevated across timeframes heading into a high-impact event. A squeeze resolving near a news release can produce outsized moves.
+- **[MTF Triple Moving Averages MT5](https://forextradingtools.eu/en/marketplace/mtf-triple-ma-mt5)** — confirm multi-timeframe trend direction, then use the calendar to avoid entering just before major news that could reverse or invalidate the setup.
 
 > **Note:** The indicator does not generate buy or sell signals. Entry and exit decisions remain with the trader.
 
@@ -248,11 +248,11 @@ Disable **Show panel background** for a cleaner look that blends with dark or cu
 
 | Indicator | Platform | Description |
 |---|---|---|
-| [ZigZag Zones MT5](https://forextradingtools.eu/products/indicators/zigzag-zones-mt5-free/) | MT5 | Dual-speed ZigZag lines with automatic pivot-based support and resistance zones — pairs well with news event lines for structure + catalyst analysis |
-| [MTF Bollinger Bands MT5](https://forextradingtools.eu/products/indicators/mtf-bollinger-bands-mt5-indicator/) | MT5 | Multi-timeframe Bollinger Bands on one chart — identify volatility squeezes and expansions across up to 9 timeframes |
-| [MTF Triple Moving Averages MT5](https://forextradingtools.eu/products/indicators/mtf-triple-moving-averages-free-indicator/) | MT5 | Fast, Medium, and Slow MAs from up to 9 timeframes on a single chart — quickly read trend alignment before and after news events |
-| [Multi-purpose Forex Scanner](https://forextradingtools.eu/products/indicators/forex-scanner-free/) | MT4 | Free multi-pair scanner for scanning multiple instruments and timeframes at once |
-| [Trendline EA](https://forextradingtools.eu/products/expertadvisors/trendline-ea/) | MT5 | Semi-automated trading robot for breakouts, pullbacks, and alerts — combine with news awareness to avoid triggering entries into high-impact windows |
+| [ZigZag Zones MT5](https://forextradingtools.eu/en/marketplace/zigzag-zones-mt5) | MT5 | Dual-speed ZigZag lines with automatic pivot-based support and resistance zones — pairs well with news event lines for structure + catalyst analysis |
+| [MTF Bollinger Bands MT5](https://forextradingtools.eu/en/marketplace/mtf-bollinger-bands-mt5) | MT5 | Multi-timeframe Bollinger Bands on one chart — identify volatility squeezes and expansions across up to 9 timeframes |
+| [MTF Triple Moving Averages MT5](https://forextradingtools.eu/en/marketplace/mtf-triple-ma-mt5) | MT5 | Fast, Medium, and Slow MAs from up to 9 timeframes on a single chart — quickly read trend alignment before and after news events |
+| [Multi-purpose Forex Scanner](https://forextradingtools.eu/en/marketplace/forex-scanner) | MT4 | Free multi-pair scanner for scanning multiple instruments and timeframes at once |
+| [Trendline EA](https://forextradingtools.eu/en/marketplace/trendline-ea) | MT5 | Semi-automated trading robot for breakouts, pullbacks, and alerts — combine with news awareness to avoid triggering entries into high-impact windows |
 
 More free MT5 and MT4 indicators at [forextradingtools.eu](https://forextradingtools.eu).
 
@@ -282,4 +282,4 @@ See [LICENSE](./LICENSE) for details.
 
 ---
 
-*Found a bug or have a feature request? Open an [issue](https://github.com/ForexTradingTools/fxtt-mt5-news-calendar/issues) or use the suggestion form on the [product page](https://forextradingtools.eu/products/indicators/news-calendar-mt5-free/).*
+*Found a bug or have a feature request? Open an [issue](https://github.com/ForexTradingTools/fxtt-mt5-news-calendar/issues) or use the suggestion form on the [product page](https://forextradingtools.eu/en/marketplace/news-calendar-mt5).*
